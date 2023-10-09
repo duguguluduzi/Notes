@@ -9,6 +9,8 @@
 > 期刊名称：Chem
 >
 > DOI: [10.1016/j.chempr.2020.10.025](https://doi.org/10.1016/j.chempr.2020.10.025)
+>
+> PDF：[Designer DNA nanostructures for therapeutics.pdf](https://github.com/duguguluduzi/Papers001/blob/d7dd1620bdc4eb6ba9e698697055104854a0dccd/Designer%20DNA%20nanostructures%20for%20therapeutics.pdf)
 
 在纳米医学应用中，纳米载体能赋予治疗剂**更高的疗效**、**安全性**和**靶向特异性**。**能否设计合适的纳米载体，使其在生物体的复杂环境中精确地将治疗剂运输穿过生物屏障，是纳米医学的一大挑战。** DNA的可编程性和生物相容性使得合理设计定制化的DNA纳米载体用于靶向药物递送成为可能，极大地促进了癌症治疗的进展。此外，基于DNA纳米技术的治疗体系在开发智能治疗机器人系统和治疗肾脏疾病方面显示出巨大的潜力。本文综述了DNA纳米结构在不同治疗策略中的作用，并强调了具有长期临床转化前景的模型系统。  
 
